@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mundo-animal/static/css/main.7f9550f8.css",
-    "main.js": "/mundo-animal/static/js/main.e905c76d.js",
+    "main.js": "/mundo-animal/static/js/main.7d01909b.js",
     "index.html": "/mundo-animal/index.html",
     "main.7f9550f8.css.map": "/mundo-animal/static/css/main.7f9550f8.css.map",
-    "main.e905c76d.js.map": "/mundo-animal/static/js/main.e905c76d.js.map"
+    "main.7d01909b.js.map": "/mundo-animal/static/js/main.7d01909b.js.map"
   },
   "entrypoints": [
     "static/css/main.7f9550f8.css",
-    "static/js/main.e905c76d.js"
+    "static/js/main.7d01909b.js"
   ]
 }
