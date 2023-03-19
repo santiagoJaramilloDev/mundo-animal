@@ -16,9 +16,9 @@ interface Route {
 }
 
 export const routes: Route[] = [
-    { path: '/', Component: AboutUs},
+    { path: '/mundo-animal/', Component: AboutUs},
     // { path: 'aboutUs', Component: AboutUs, name: '¿QUIÉNES SOMOS?', navBarNavigation: true},
-    { path: 'ourCommunity', Component: OurCommunity, name: 'NUESTRA COMUNIDAD', navBarNavigation: true},
-    { path: 'services', Component: Services, name: 'SERVICIOS', navBarNavigation: true},
-    { path: 'store', Component: Store, name: 'TIENDA', navBarNavigation: true}
+    { path: 'mundo-animal/ourCommunity', Component: OurCommunity, name: 'NUESTRA COMUNIDAD', navBarNavigation: true},
+    { path: 'mundo-animal/services', Component: Services, name: 'SERVICIOS', navBarNavigation: true},
+    { path: 'mundo-animal/store', Component: Store, name: 'TIENDA', navBarNavigation: true}
 ]
