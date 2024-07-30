@@ -43,7 +43,7 @@ export const Peluqueria = () => {
           mostPopular: true,
         },
         {
-          name: "BAÑO PREMIUN",
+          name: "BAÑO PREMIUM",
           id: "tier-enterprise",
           href: "#",
           priceMonthly: "$60.000",

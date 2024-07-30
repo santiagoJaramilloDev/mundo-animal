@@ -9,8 +9,9 @@ export const Mission = () => {
             NUESTRA MISION
           </h2>
           <p className="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-300">
-            Incididunt sint fugiat pariatur cupidatat consectetur sit cillum
-            anim id veniam aliqua proident excepteur commodo do ea.
+            Nuestra misión es proporcionar servicios excepcionales y personalizados para
+            el bienestar de las mascotas, asegurando que cada animal reciba el amor y cuidado que merece.
+            Nos dedicamos a mejorar la calidad de vida de las mascotas y sus dueños a través de atención profesional y compasiva.
           </p>
           <svg
             viewBox="0 0 1024 1024"

@@ -2,27 +2,27 @@ import { ArrowPathIcon, CloudArrowUpIcon, FingerPrintIcon, LockClosedIcon } from
 
 const features = [
   {
-    name: 'Push to deploy',
+    name: 'Brindar Atención Integral',
     description:
-      'Morbi viverra dui mi arcu sed. Tellus semper adipiscing suspendisse semper morbi. Odio urna massa nunc massa.',
+      'Ofrecer una gama completa de servicios que cubran todas las necesidades de las mascotas, desde salud y bienestar hasta entretenimiento y socialización.',
     icon: CloudArrowUpIcon,
   },
   {
-    name: 'SSL certificates',
+    name: 'Fomentar la Comunidad',
     description:
-      'Sit quis amet rutrum tellus ullamcorper ultricies libero dolor eget. Sem sodales gravida quam turpis enim lacus amet.',
+      'Crear una comunidad activa y comprometida de dueños de mascotas que compartan experiencias, consejos y apoyo mutuo.',
     icon: LockClosedIcon,
   },
   {
-    name: 'Simple queues',
+    name: 'Garantizar la Calidad',
     description:
-      'Quisque est vel vulputate cursus. Risus proin diam nunc commodo. Lobortis auctor congue commodo diam neque.',
+      'Mantener altos estándares de calidad en todos los servicios proporcionados, asegurando la satisfacción y confianza de nuestros clientes.',
     icon: ArrowPathIcon,
   },
   {
-    name: 'Advanced security',
+    name: 'Promover la Educación',
     description:
-      'Arcu egestas dolor vel iaculis in ipsum mauris. Tincidunt mattis aliquet hac quis. Id hac maecenas ac donec pharetra eget.',
+      'Educar a los dueños de mascotas sobre el cuidado adecuado y responsable, proporcionando recursos y talleres informativos.',
     icon: FingerPrintIcon,
   },
 ]

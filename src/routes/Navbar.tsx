@@ -28,7 +28,7 @@ export const Navbar = () => {
                   <Link className="flex-shrink-0" to="/">
                     <img
                       className="h-10"
-                        src="assets/images/logo-mp.png"
+                        src="/assets/images/logo-mp.png"
                       alt="Workflow"
                     />
                   </Link>

@@ -9,7 +9,9 @@ export const Vission = () => {
             NUESTRA VISION
           </h2>
           <p className="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-300">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, veritatis corporis ab recusandae enim quod laudantium, architecto sunt explicabo maiores id, dolor reprehenderit eveniet ex laboriosam vitae asperiores exercitationem nam!
+            Nuestra visión es ser el portal líder en servicios para mascotas, reconocido por nuestra excelencia
+            y compromiso con el bienestar animal. Aspiramos a crear una comunidad donde cada mascota y
+            su dueño encuentren apoyo, recursos y servicios de la más alta calidad.
           </p>
           <svg
             viewBox="0 0 1024 1024"
